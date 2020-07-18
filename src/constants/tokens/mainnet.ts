@@ -27,6 +27,7 @@ export default [
   new Token(ChainId.MAINNET, '0x39AA39c021dfbaE8faC545936693aC917d5E7563', 8, 'cUSDC', 'Compound USD Coin'),
   new Token(ChainId.MAINNET, '0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d', 4, 'CEL', 'Celsius'),
   new Token(ChainId.MAINNET, '0x06AF07097C9Eeb7fD685c692751D5C66dB49c215', 18, 'CHAI', 'Chai'),
+  new Token(ChainId.MAINNET, '0x20bf12a7bdb6d7b84069fb3b939892a301c981d1', 18, 'CZZ', 'ClassZZ'),
   COMP,
   new Token(ChainId.MAINNET, '0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359', 18, 'SAI', 'Dai Stablecoin v1.0 (SAI)'),
   DAI,
